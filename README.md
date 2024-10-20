@@ -4,3 +4,7 @@ Binaries for Riscv64 mostly cross compiled on VisionFive2 Debian that I use on m
 
 ## nano
 1. Copy to `/usr/bin` 
+
+## conway
+Conway is a game of life implementation that runs a random game
+1. Copy to `/usr/bin` 
